@@ -20,3 +20,5 @@ console.log("HELLO WORLD!".length);
 console.log(fullName[0])
 console.log(fullName[9])
 console.log(lastName[lastName.length-1])
+
+//
