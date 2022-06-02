@@ -1,0 +1,5 @@
+console.log(typeof 99)
+console.log(typeof true)
+console.log(typeof "Vivek")
+console.log(typeof undefined)
+console.log(typeof null)

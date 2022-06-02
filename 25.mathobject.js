@@ -1,0 +1,7 @@
+console.log (Math.PI)
+console.log (Math.round(4.5))
+console.log (Math.floor(3.95))
+console.log (Math.pow(7,2))
+console.log (Math.ceil(2.2))
+console.log (Math.floor(Math.random()*10))
+console.log (`Dice Roll: ${Math.floor(Math.random()*6)+1}`)

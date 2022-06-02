@@ -39,3 +39,27 @@ console.log(name.indexOf('sal'))
 let nam = ("vivek anand")
 console.log(nam.slice(0, 5))
 console.log(nam.slice(6))
+
+//Quiz
+const age = "5" + "4"
+console.log(age)
+
+console.log("pecan pie"[7]) //[7] - index at 7
+
+let song = 'london calling'
+song.toUpperCase();
+console.log(song)
+
+let userInput = "   TODD@gmail.com"
+let cleanedInput = userInput.trim().toLocaleLowerCase();
+console.log(cleanedInput)
+
+let park = 'Yellowstone'
+const index = park.indexOf('Stone')
+console.log = (index)
+
+let yell =('Go Away!!')
+let index1 = yell.indexOf('!')
+console.log(index1)
+
+console.log('GARBAGE!'.slice(2).replace("B", ''))
